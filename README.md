@@ -19,7 +19,8 @@
 <div align="center">
 <br><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonSeuk&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=HyeonSeuk&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" />
 
 <br><br><br>
 
