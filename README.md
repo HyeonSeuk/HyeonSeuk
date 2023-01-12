@@ -19,8 +19,7 @@
 <div align="center">
 <br><br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=HyeonSeuk&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=HyeonSeuk&theme=material-palenight&hide_border=%EA%B1%B0%EC%A7%93)](https://git.io/streak-stats)
 
 <br><br><br>
 
