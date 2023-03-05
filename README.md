@@ -15,6 +15,9 @@
 <div align=center>
   
 ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
 
 <div align="center">
 <br><br><br>
